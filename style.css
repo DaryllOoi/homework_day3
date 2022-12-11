@@ -1,0 +1,138 @@
+.logo{
+    background-color: #222f3e;
+    margin: 0;
+    height: 70px;
+}
+.logo img{
+    width: 130px;
+}
+
+body{
+    background-color: #eaeded;
+}
+
+.services{
+    color: #eaeded;
+    background-color:#425b78;
+    margin-top: -20px;
+    word-spacing: 15px;
+}
+
+.bg-yellow {
+    color: #eaeded;
+    background-color:#f56600;
+   }
+   
+   .py-1 {
+    padding: 1rem 0;
+   }
+
+.text-center {
+    text-align:center;
+    width:100%;
+   }
+
+.bg-dark {
+    color: #eaeded;
+    background-color:#425b78
+   }
+
+.holiday{
+    text-align: center;
+    background-image: url(assets/bg-image.png);
+    margin-bottom: -40px;
+    height: 90px;
+    margin-top: 18px;
+    padding-top: 30px;
+    color: white;
+}
+.holiday2{
+    text-align: center;
+    color: white;
+    background-image: url(assets/bg-image.png);
+    padding-bottom: 20px;
+    padding-top: -10px;
+}
+   
+#white-border{
+    background-color: white;
+}
+
+
+.gift{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 25px;
+    font-size: 20px;
+    display: inline;
+}
+
+.py-1 p{
+    color:white;
+}
+
+#white-border span{
+    color:#60A2AE;
+    padding-left: 20px;
+    }
+
+.images img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 30px;
+    object-fit: cover;
+    /* object-fit makes sure the image stays proportionate */
+    margin: 1rem;
+    border-radius: 20px;
+    /* rounds the edges by 20px radius */
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+
+.middle img{
+    width: 1365px;
+    height: 350px;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.middle{
+    text-align: center;
+}
+
+.bottom img{
+    width: 1365px;
+    height: 350px;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.bottom{
+    text-align: center;
+}
+
+.logo1{
+    background-color: #222f3e;
+    margin: 0;
+}
+.logo1 img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+
+.title {
+    font-size: 1.3rem;
+  }
+
+  /* styles the subtitle element size */
+  .subtitle {
+    font-weight: 600;
+    color: #007185;
+    margin-left: 1rem; 
+  }
